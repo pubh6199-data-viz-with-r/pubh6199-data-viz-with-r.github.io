@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-## EMSE 4572 / 6572: Exploratory Data Analysis <a href='https://eda.seas.gwu.edu/'><img src='images/logo.png' align="right" height="139"/></a>
+## PUBH 6199: Visualizing Data with R <a href='https://eda.seas.gwu.edu/'><img src='images/logo.png' align="right" height="139"/></a>
 
 <!-- badges: start -->
 [![License: CC-BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -29,4 +29,4 @@ knitr::opts_chunk$set(
 
 ### Acknowledgments
 
-This course was inspired by many other courses / resources that cover similar material - see the course [about page](http://eda.seas.gwu.edu/about.html) for more details.
+This course was inspired by many other courses / resources that cover similar material - see the course [about page](http://https://pubh6199-data-viz-with-r.github.io/about.html) for more details.

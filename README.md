@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## EMSE 4572 / 6572: Exploratory Data Analysis <a href='https://eda.seas.gwu.edu/'><img src='images/logo.png' align="right" height="139"/></a>
+## PUBH 6199: Visualizing Data with R <a href='https://pubh6199-data-viz-with-r.github.io/'><img src='images/logo.png' align="right" height="139"/></a>
 
 <!-- badges: start -->
 
@@ -11,20 +11,19 @@
 
 ### Description
 
-This is the course website for “[EMSE](https://www.emse.seas.gwu.edu/)
-4572 / 6572: Exploratory Data Analysis” at the [George Washington
-University](https://www.gwu.edu/). This is the second part of a
-two-course sequence designed to provide a foundation in programming for
-data analytics using the [R programming
-language](https://www.r-project.org/):
+👋 Welcome to the course website for
+“[PUBH](https://publichealth.gwu.edu/departments/environmental-and-occupational-health)
+6199: Visualizing Data with R” at the [George Washington
+University](https://www.gwu.edu/)!
 
-- Course 1: [EMSE 4571: Intro to Programming for
-  Analytics](http://p4a.seas.gwu.edu/)
-- Course 2: [EMSE 4572: Exploratory Data
-  Analysis](http://eda.seas.gwu.edu/)
+Students will learn how to design and implement data visualization based
+on the data type at hand and communicate complex public health
+information clearly and effectively to diverse audiences, including
+policymakers, healthcare professionals, and the general public.
 
 ### Acknowledgments
 
 This course was inspired by many other courses / resources that cover
 similar material - see the course [about
-page](http://eda.seas.gwu.edu/about.html) for more details.
+page](http://https://pubh6199-data-viz-with-r.github.io/about.html) for
+more details.
