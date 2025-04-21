@@ -11,35 +11,22 @@ project:
     - "CNAME"
 
 website:
-  title: Exploratory Data Analysis
-  site-url: https://eda.seas.gwu.edu/
+  title: "PUBH6199: Visualizing Data with R"
+  site-url: https://pubh6199-data-viz-with-r.github.io/
   favicon: images/favicon.ico
-  repo-url: https://github.com/emse-eda-gwu/
-  description: 'Course website for the EMSE course "Exploratory Data Analysis" at GWU'
+  repo-url: https://github.com/pubh6199-data-viz-with-r
+  description: 'Course website for the graduate-level course "PUBH 6199: Visualizing Data with R" at GWU'
   search: true
   open-graph:
     locale: es_ES
-    site-name: https://eda.seas.gwu.edu/
-  twitter-card:
-    creator: "@johnhelveston"
-    site: "@johnhelveston"
-    image: "images/logo_square.png"
-    card-style: summary
+    site-name: https://pubh6199-data-viz-with-r.github.io/
   navbar:
     title: ""
     left:
       - text: "Select Section"
         menu:
-          - text: "Spring 2020"
-            href: http://eda.seas.gwu.edu/2020-Spring/
-          - text: "Spring 2021"
-            href: http://eda.seas.gwu.edu/2021-Spring/
-          - text: "Fall 2022"
-            href: http://eda.seas.gwu.edu/2022-Fall/
-          - text: "Fall 2023"
-            href: http://eda.seas.gwu.edu/2023-Fall/
-          - text: "Fall 2024"
-            href: http://eda.seas.gwu.edu/2024-Fall/
+          - text: "Summer 2025"
+            href: https://pubh6199-data-viz-with-r.github.io/2025-Summer/
       - text: "Project Showcase"
         href: showcase.qmd
     right:
@@ -53,17 +40,18 @@ website:
         href: LICENSE.qmd
       - text: Contact
         icon: envelope-fill
-        href: mailto:jph@gwu.edu
+        href: mailto:xindi.hu@gwu.edu
       - text: Source files
         icon: github
-        href: https://github.com/emse-eda-gwu/
+        href: https://github.com/pubh6199-data-viz-with-r
   page-footer:
+    left: "© 2025 Dr. Xindi Hu"
     center:
-      - text: "<a href='https://eda.seas.gwu.edu/LICENSE.html'>LICENSE: CC-BY-SA {{< fa creative-commons-sa >}} <i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-sa'></i></a>"
-
+      - text: "<a href='https://pubh6199-data-viz-with-r.github.io/LICENSE.html'>LICENSE: CC-BY-SA <i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-sa'></i></a>"
+    right: "GWU Milken Institute SPH"
 format:
   html:
-    theme: cyborg
+    theme: flatly
     css: styles.css
     anchor-sections: true
     smooth-scroll: true
@@ -74,6 +62,7 @@ execute:
   echo: false
   warning: false
   message: false
+  eval: false
 knitr:
   opts_chunk:
     comment: "#>"

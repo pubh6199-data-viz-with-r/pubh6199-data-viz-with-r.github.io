@@ -1,23 +1,23 @@
 ---
-title: 'EMSE 4572 / 6572: Exploratory Data Analysis'
+title: 'PUBH 6199: Visualizing Data with R'
 ---
 
 <br>
 
 ::: {.grid}
 
-::: {.g-col-3}
+::: {.g-col-4}
 
 <img src="images/logo.png" width="200">
 
 :::
 
-::: {.g-col-9}
+::: {.g-col-8}
 
 ```{r child = '_description.qmd'}
 ```
 
-Choose from the menu to view the course site for a particular semester or to view the showcase of prior student projects.
+Use the menu to access course materials for each semester or explore previous student projects.
 
 :::
 
