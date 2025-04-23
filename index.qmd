@@ -17,7 +17,7 @@ title: 'PUBH 6199: Visualizing Data with R'
 ```{r child = '_description.qmd'}
 ```
 
-[test] Use the menu to access course materials for each semester or explore previous student projects.
+[test2] Use the menu to access course materials for each semester or explore previous student projects.
 
 :::
 
