@@ -9,7 +9,7 @@ title: 'PUBH 6199: Visualizing Data with R'
 ::: {.g-col-4}
 
 <img src="images/logo.png" width="200">
-test test test
+
 :::
 
 ::: {.g-col-8}
@@ -17,7 +17,7 @@ test test test
 ```{r child = '_description.qmd'}
 ```
 
-Use the menu to access course materials for each semester or explore previous student projects.
+[test] Use the menu to access course materials for each semester or explore previous student projects.
 
 :::
 
