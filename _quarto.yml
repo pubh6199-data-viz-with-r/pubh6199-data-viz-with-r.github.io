@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
   preview:
     port: 5896
     browser: true
@@ -8,7 +8,6 @@ project:
     - "*.qmd"
   resources:
     - "showcase/"
-    - "CNAME"
 
 website:
   title: "PUBH6199: Visualizing Data with R"
