@@ -1,5 +1,5 @@
 ---
-title: 'PUBH 6199: Visualizing Data with R'
+title: 'PUBH 6199: Visualizing Data with R (GWSPH)'
 ---
 
 <br>
