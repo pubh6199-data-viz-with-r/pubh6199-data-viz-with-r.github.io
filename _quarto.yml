@@ -26,6 +26,8 @@ website:
         menu:
           - text: "Summer 2025"
             href: https://pubh6199-data-viz-with-r.github.io/2025-Summer/
+          - text: "Summer 2026"
+            href: https://pubh6199-data-viz-with-r.github.io/2026-Summer/
       - text: "Project Showcase"
         href: showcase.qmd
     right:
