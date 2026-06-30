@@ -1,4 +1,7 @@
 ---
+title: "Final Project Showcase"
+description: "Student-built data visualization projects from PUBH 6199"
+image: images/logo.png
 toc: true
 ---
 
