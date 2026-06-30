@@ -8,6 +8,19 @@ toc: true
 source(here::here('_common.R'))
 ```
 
+# Summer 2026
+
+::: {.grid}
+
+```{r}
+#| results: asis
+df <- get_showcase_df('2026-Summer')
+build_showcase(df)
+
+```
+
+:::
+
 # Summer 2025
 
 ::: {.grid}
