@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This course was inspired by many other courses / resources that cover similar material. In addition to my own developed material, I have also modified material from other courses and workshops - a full list of sources can be found in the LICENSE page.\nThis course was first created by Dr. Xindi (Cindy) Hu for the Summer 2025 class PUBH 6199: Visualizing Data with R."
+    "text": "This course was inspired by many other courses / resources that cover similar material. In addition to my own developed material, I have also modified material from other courses and workshops - a full list of sources can be found in the LICENSE page.\nThis course was first created by Dr. Xindi (Cindy) Hu for the Summer 2025 class PUBH 6199/6148: Visualizing Data with R."
   },
   {
     "objectID": "LICENSE.html",
@@ -23,8 +23,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "PUBH 6199: Visualizing Data with R",
+    "title": "PUBH 6199/6148: Visualizing Data with R",
     "section": "",
-    "text": "👋 Welcome to the course website for “PUBH 6199: Visualizing Data with R” at the George Washington University!\nStudents will learn how to design and implement data visualization based on the data type at hand and communicate complex public health information clearly and effectively to diverse audiences, including policymakers, healthcare professionals, and the general public.\nUse the menu to access course materials for each semester or explore previous student projects."
+    "text": "👋 Welcome to the course website for “PUBH 6199/6148: Visualizing Data with R” at the George Washington University!\nStudents will learn how to design and implement data visualization based on the data type at hand and communicate complex public health information clearly and effectively to diverse audiences, including policymakers, healthcare professionals, and the general public.\nUse the menu to access course materials for each semester or explore previous student projects."
   }
 ]

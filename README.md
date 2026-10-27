@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## PUBH 6199: Visualizing Data with R <a href='https://pubh6199-data-viz-with-r.github.io/'><img src='images/logo.png' align="right" height="139"/></a>
+## PUBH 6199/6148: Visualizing Data with R <a href='https://pubh6199-data-viz-with-r.github.io/'><img src='images/logo.png' align="right" height="139"/></a>
 
 <!-- badges: start -->
 
@@ -13,7 +13,7 @@
 
 👋 Welcome to the course website for
 “[PUBH](https://publichealth.gwu.edu/departments/environmental-and-occupational-health)
-6199: Visualizing Data with R” at the [George Washington
+6199/6148: Visualizing Data with R” at the [George Washington
 University](https://www.gwu.edu/)!
 
 Students will learn how to design and implement data visualization based

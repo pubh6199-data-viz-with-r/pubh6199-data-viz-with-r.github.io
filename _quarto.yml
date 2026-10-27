@@ -10,11 +10,11 @@ project:
     - "showcase/"
 
 website:
-  title: "PUBH6199: Visualizing Data with R"
+  title: "PUBH 6199/6148: Visualizing Data with R"
   site-url: https://pubh6199-data-viz-with-r.github.io/
   favicon: images/favicon.ico
   repo-url: https://github.com/pubh6199-data-viz-with-r
-  description: 'Course website for the graduate-level course "PUBH 6199: Visualizing Data with R" at GWU'
+  description: 'Course website for the graduate-level course "PUBH 6199/6148: Visualizing Data with R" at GWU'
   search: true
   open-graph:
     locale: es_ES
